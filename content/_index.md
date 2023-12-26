@@ -16,7 +16,7 @@ sections:
         image:
           filename: dark_stripes.png
           size: actual
-          paralax: false
+          parallax: false
           position: left
   - block: skills
     content:
