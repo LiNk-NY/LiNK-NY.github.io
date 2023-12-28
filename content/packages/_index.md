@@ -70,6 +70,8 @@ comments: false
 * [AnVILAz](https://github.com/Bioconductor/AnVILAz)
 * [AnVILGCP](https://github.com/Bioconductor/AnVILGCP)
 * [BiocPkgDash](https://github.com/Bioconductor/BiocPkgDash)
+* [BiocPkgStats](https://github.com/Bioconductor/BiocPkgStats)
+* [BiocResourceStats](https://github.com/Bioconductor/BiocResourceStats)
 * [BiocWorkshopSubmit](https://github.com/Bioconductor/BiocWorkshopSubmit)
 * [BiocCertificate](https://github.com/Bioconductor/BiocCertificate)
 * [newsfeed](https://github.com/waldronlab/newsfeed)
