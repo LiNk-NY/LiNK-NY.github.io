@@ -69,6 +69,7 @@ comments: false
 
 * [AnVILAz](https://github.com/Bioconductor/AnVILAz)
 * [AnVILGCP](https://github.com/Bioconductor/AnVILGCP)
+* [AnVILBase](https://github.com/Bioconductor/AnVILBase)
 * [BiocPkgDash](https://github.com/Bioconductor/BiocPkgDash)
 * [BiocPkgStats](https://github.com/Bioconductor/BiocPkgStats)
 * [BiocResourceStats](https://github.com/Bioconductor/BiocResourceStats)
