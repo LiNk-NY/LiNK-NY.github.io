@@ -55,6 +55,8 @@ comments: false
 | Name | CRAN-status | CRAN-downloads |
 |:-----:|:-----:|:-----:|
 | [rjsoncons](https://github.com/mtmorgan/rjsoncons) | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/rjsoncons)](https://cran.r-project.org/package=rjsoncons) | [![metacran downloads](https://cranlogs.r-pkg.org/badges/rjsoncons)](https://cran.r-project.org/package=rjsoncons) |
+| [rapiclient](https://github.com/bergant/rapiclient) | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/rapiclient)](https://cran.r-project.org/package=rapiclient) | [![metacran downloads](https://cranlogs.r-pkg.org/badges/rapiclient)](https://cran.r-project.org/package=rapiclient) |
+
 
 ## GitHub
 
