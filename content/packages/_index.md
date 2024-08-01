@@ -27,6 +27,8 @@ comments: false
 | [TENxIO](https://github.com/waldronlab/TENxIO) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/TENxIO.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/TENxIO) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/TENxIO.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/TENxIO) |
 | [BiocHubsShiny](https://github.com/Bioconductor/BiocHubsShiny) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/BiocHubsShiny.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BiocHubsShiny) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/BiocHubsShiny.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocHubsShiny) |
 | [VisiumIO](https://github.com/waldronlab/VisiumIO) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/years-in-bioc/VisiumIO.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/VisiumIO) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/VisiumIO.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/VisiumIO) |
+| [AnVILAz](https://github.com/Bioconductor/AnVILAz) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/AnVILAz.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/AnVILAz) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/AnVILAz.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/AnVILAz) |
+| [AnVILBase](https://github.com/Bioconductor/AnVILBase) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/AnVILBase.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/AnVILBase) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/AnVILBase.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/AnVILBase) |
 
 ## Maintainer
 
@@ -38,6 +40,7 @@ comments: false
 | [BiocIO](https://github.com/Bioconductor/BiocIO) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/BiocIO.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BiocIO) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/BiocIO.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocIO) |
 | [AnVIL](https://github.com/Bioconductor/AnVIL) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/AnVIL.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/AnVIL) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/AnVIL.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/AnVIL) |
 | [AnVILPublish](https://github.com/Bioconductor/AnVILPublish) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/AnVILPublish.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/AnVILPublish) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/AnVILPublish.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/AnVILPublish) |
+| [AnVILGCP](https://github.com/Bioconductor/AnVILGCP) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/AnVILGCP.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/AnVILGCP) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/AnVILGCP.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/AnVILGCP) |
 
 ## Contributor
 
@@ -75,9 +78,6 @@ comments: false
 
 ### In Development
 
-* [AnVILAz](https://github.com/Bioconductor/AnVILAz)
-* [AnVILGCP](https://github.com/Bioconductor/AnVILGCP)
-* [AnVILBase](https://github.com/Bioconductor/AnVILBase)
 * [BiocPkgDash](https://github.com/Bioconductor/BiocPkgDash)
 * [BiocPkgStats](https://github.com/Bioconductor/BiocPkgStats)
 * [BiocResourceStats](https://github.com/Bioconductor/BiocResourceStats)
