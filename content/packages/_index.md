@@ -78,6 +78,7 @@ comments: false
 
 ### In Development
 
+* [XeniumIO](https://github.com/Bioconductor/XeniumIO)
 * [BiocPkgDash](https://github.com/Bioconductor/BiocPkgDash)
 * [BiocPkgStats](https://github.com/Bioconductor/BiocPkgStats)
 * [BiocResourceStats](https://github.com/Bioconductor/BiocResourceStats)
