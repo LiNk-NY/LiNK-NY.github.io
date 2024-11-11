@@ -67,6 +67,7 @@ comments: false
 
 ## GitHub
 
+* [HGNCREST](https://github.com/waldronlab/HGNCREST)
 * [oncoKBData](https://github.com/waldronlab/oncoKBData)
 * [OncoTree](https://github.com/LiNk-NY/OncoTree)
 * [GenomeNexus](https://github.com/LiNk-NY/GenomeNexus)
