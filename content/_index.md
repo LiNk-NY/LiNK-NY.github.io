@@ -17,7 +17,7 @@ sections:
           filename: dark_stripes.png
           size: actual
           parallax: false
-          position: center
+          position: bottom-right
   - block: skills
     content:
       title: Skills
@@ -53,7 +53,7 @@ sections:
           date_start: '2016-01-01'
           date_end: ''
           description: ''
-        
+
         - title: Adjunct Lecturer
           company: CUNY School of Public Health
           company_url: 'https://sph.cuny.edu'
@@ -90,7 +90,7 @@ sections:
           organization_url: http://congresos.nnb.unam.mx/TIB2017/
           title: Functional Genomics and Transcriptomics Workshop
           url: ''
-        - certificate_url: https://www.linkedin.com/in/mramos148 
+        - certificate_url: https://www.linkedin.com/in/mramos148
           organization: See LinkedIn for more
           organization_url: https://www.linkedin.com/in/mramos148
           title: Additional Certificates
