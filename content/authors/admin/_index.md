@@ -23,8 +23,6 @@ role: Senior Data Scientist
 organizations:
   - name: CUNY Graduate School of Public Health and Health Policy
     url: https://sph.cuny.edu/
-  - name: Roswell Park Comprehensive Cancer Center
-    url: https://www.roswellpark.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include genomic data structures and representations in R / Bioconductor's S4 ecosystem.

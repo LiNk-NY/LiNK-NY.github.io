@@ -51,7 +51,7 @@ sections:
           company_url: 'https://roswellpark.org'
           location: 'Buffalo, NY'
           date_start: '2016-01-01'
-          date_end: ''
+          date_end: '2024-08-30'
           description: ''
 
         - title: Adjunct Lecturer
