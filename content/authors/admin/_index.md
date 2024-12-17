@@ -101,5 +101,10 @@ social:
 highlight_name: true
 ---
 
-Marcel Ramos is a Senior Data Scientist at the Waldron Lab at the CUNY School of Public Health and a Bioconductor Core Team member based at Roswell Park Comprehensive Cancer Center. His research interests include implementation of genomic data structures and representations within the R / Bioconductor S4 ecosystem. He is involved in the development and maintenance of over 20 R / Bioconductor and CRAN packages.
+Marcel Ramos is a Senior Data Scientist at the Waldron Lab at the CUNY School of
+Public Health and a Bioconductor Core Team member. His research interests
+include implementation of genomic data structures and representations within the
+R / Bioconductor S4 ecosystem. He is involved in the development and maintenance
+of over 24 R / Bioconductor and CRAN packages including MultiAssayExperiment and
+BiocManager.
 {style="text-align: justify;"}
