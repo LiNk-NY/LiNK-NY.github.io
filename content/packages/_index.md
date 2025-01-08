@@ -49,6 +49,7 @@ comments: false
 | [BiocPkgTools](https://github.com/seandavi/BiocPkgTools) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/BiocPkgTools.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BiocPkgTools) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/BiocPkgTools.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocPkgTools) |
 | [GenomicDataCommons](https://github.com/Bioconductor/GenomicDataCommons) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/GenomicDataCommons.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/GenomicDataCommons) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/GenomicDataCommons.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/GenomicDataCommons) |
 
+
 ### CRAN Packages
 
 ## Maintainer
@@ -56,14 +57,13 @@ comments: false
 | Name | CRAN-status | CRAN-downloads |
 |:-----:|:-----:|:-----:|
 | [BiocManager](https://github.com/Bioconductor/BiocManager) | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/BiocManager)](https://cran.r-project.org/package=BiocManager) | [![metacran downloads](https://cranlogs.r-pkg.org/badges/BiocManager)](https://cran.r-project.org/package=BiocManager) |
+| [rapiclient](https://github.com/bergant/rapiclient) | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/rapiclient)](https://cran.r-project.org/package=rapiclient) | [![metacran downloads](https://cranlogs.r-pkg.org/badges/rapiclient)](https://cran.r-project.org/package=rapiclient) |
 
 ## Contributor
 
 | Name | CRAN-status | CRAN-downloads |
 |:-----:|:-----:|:-----:|
 | [rjsoncons](https://github.com/mtmorgan/rjsoncons) | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/rjsoncons)](https://cran.r-project.org/package=rjsoncons) | [![metacran downloads](https://cranlogs.r-pkg.org/badges/rjsoncons)](https://cran.r-project.org/package=rjsoncons) |
-| [rapiclient](https://github.com/bergant/rapiclient) | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/rapiclient)](https://cran.r-project.org/package=rapiclient) | [![metacran downloads](https://cranlogs.r-pkg.org/badges/rapiclient)](https://cran.r-project.org/package=rapiclient) |
-
 
 ## GitHub
 
