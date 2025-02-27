@@ -27,6 +27,7 @@ comments: false
 | [TENxIO](https://github.com/waldronlab/TENxIO) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/TENxIO.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/TENxIO) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/TENxIO.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/TENxIO) |
 | [BiocHubsShiny](https://github.com/Bioconductor/BiocHubsShiny) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/BiocHubsShiny.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BiocHubsShiny) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/BiocHubsShiny.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocHubsShiny) |
 | [VisiumIO](https://github.com/waldronlab/VisiumIO) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/years-in-bioc/VisiumIO.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/VisiumIO) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/VisiumIO.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/VisiumIO) |
+| [XeniumIO](https://github.com/waldronlab/XeniumIO) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/years-in-bioc/XeniumIO.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/XeniumIO) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/XeniumIO.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/XeniumIO) |
 | [AnVILAz](https://github.com/Bioconductor/AnVILAz) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/AnVILAz.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/AnVILAz) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/AnVILAz.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/AnVILAz) |
 | [AnVILBase](https://github.com/Bioconductor/AnVILBase) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/AnVILBase.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/AnVILBase) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/AnVILBase.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/AnVILBase) |
 
@@ -79,7 +80,11 @@ comments: false
 
 ### In Development
 
-* [XeniumIO](https://github.com/Bioconductor/XeniumIO)
+* [BioCmirrors](https://github.com/Bioconductor/BioCmirrors)
+* [Bioc.gff](https://github.com/Bioconductor/Bioc.gff)
+* [BiocReporting](https://github.com/Bioconductor/BiocReporting)
+* [S4Examples](https://github.com/Bioconductor/S4Examples)
+* [ReviewerTools](https://github.com/LiNk-NY/ReviewerTools)
 * [BiocPkgDash](https://github.com/Bioconductor/BiocPkgDash)
 * [BiocPkgStats](https://github.com/Bioconductor/BiocPkgStats)
 * [BiocResourceStats](https://github.com/Bioconductor/BiocResourceStats)
@@ -87,3 +92,4 @@ comments: false
 * [BiocCertificate](https://github.com/Bioconductor/BiocCertificate)
 * [newsfeed](https://github.com/waldronlab/newsfeed)
 * [describer](https://github.com/LiNk-NY/describer)
+
