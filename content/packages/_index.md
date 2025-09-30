@@ -30,6 +30,8 @@ comments: false
 | [XeniumIO](https://github.com/waldronlab/XeniumIO) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/build/release/bioc/XeniumIO.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/XeniumIO) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/XeniumIO.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/XeniumIO) |
 | [AnVILAz](https://github.com/Bioconductor/AnVILAz) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/AnVILAz.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/AnVILAz) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/AnVILAz.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/AnVILAz) |
 | [AnVILBase](https://github.com/Bioconductor/AnVILBase) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/AnVILBase.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/AnVILBase) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/AnVILBase.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/AnVILBase) |
+| [GCPtools](https://github.com/Bioconductor/GCPtools) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/years-in-bioc/GCPtools.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/GCPtools) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/GCPtools.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/GCPtools) |
+| [shinybiocloader](https://github.com/Bioconductor/shinybiocloader) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/years-in-bioc/shinybiocloader.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/shinybiocloader) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/shinybiocloader.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/shinybiocloader) |
 
 ## Maintainer
 
@@ -42,6 +44,7 @@ comments: false
 | [AnVIL](https://github.com/Bioconductor/AnVIL) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/AnVIL.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/AnVIL) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/AnVIL.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/AnVIL) |
 | [AnVILPublish](https://github.com/Bioconductor/AnVILPublish) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/AnVILPublish.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/AnVILPublish) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/AnVILPublish.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/AnVILPublish) |
 | [AnVILGCP](https://github.com/Bioconductor/AnVILGCP) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/AnVILGCP.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/AnVILGCP) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/AnVILGCP.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/AnVILGCP) |
+| [Bioc.gff](https://github.com/Bioconductor/Bioc.gff) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/years-in-bioc/Bioc.gff.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/Bioc.gff) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/Bioc.gff.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/Bioc.gff) |
 
 ## Contributor
 
@@ -80,8 +83,8 @@ comments: false
 
 ### In Development
 
+* [biocviewsapi](https://github.com/LiNk-NY/biocviewsapi)
 * [BioCmirrors](https://github.com/Bioconductor/BioCmirrors)
-* [Bioc.gff](https://github.com/Bioconductor/Bioc.gff)
 * [BiocReporting](https://github.com/Bioconductor/BiocReporting)
 * [S4Examples](https://github.com/Bioconductor/S4Examples)
 * [ReviewerTools](https://github.com/LiNk-NY/ReviewerTools)
