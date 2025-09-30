@@ -83,6 +83,7 @@ comments: false
 
 ### In Development
 
+* [snapi](https://github.com/LiNk-NY/snapi)
 * [biocviewsapi](https://github.com/LiNk-NY/biocviewsapi)
 * [BioCmirrors](https://github.com/Bioconductor/BioCmirrors)
 * [BiocReporting](https://github.com/Bioconductor/BiocReporting)
