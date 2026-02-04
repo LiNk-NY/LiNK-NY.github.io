@@ -88,6 +88,7 @@ comments: false
 * [biocviewsapi](https://github.com/LiNk-NY/biocviewsapi)
 * [BioCmirrors](https://github.com/Bioconductor/BioCmirrors)
 * [BiocReporting](https://github.com/Bioconductor/BiocReporting)
+* [ImageFeatureTCGA](https://github.com/waldronlab/ImageFeatureTCGA)
 * [S4Examples](https://github.com/Bioconductor/S4Examples)
 * [ReviewerTools](https://github.com/LiNk-NY/ReviewerTools)
 * [BiocPkgDash](https://github.com/Bioconductor/BiocPkgDash)
