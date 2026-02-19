@@ -79,11 +79,19 @@ comments: false
 * [CyCIFData](https://github.com/ccb-hms/CyCIFData)
 * [BranchRename](https://github.com/Bioconductor/BranchRename)
 * [BiocArchive](https://github.com/Bioconductor/BiocArchive)
+* [BiocCertificate](https://github.com/Bioconductor/BiocCertificate)
 * [ReleaseLaunch](https://github.com/Bioconductor/ReleaseLaunch)
+
+## Under Bioconductor Review
+
+* [BiocPkgDash](https://github.com/Bioconductor/BiocPkgDash)
+* [AnVILVRS](https://github.com/Bioconductor/AnVILVRS)
 
 ### In Development
 
-* [AnVILVRS](https://github.com/Bioconductor/AnVILVRS)
+* [BiocAzul](https://github.com/Bioconductor/BiocAzul)
+* [imageFeatureTCGA](https://github.com/waldronlab/imageFeatureTCGA)
+* [imageTCGAutils](https://github.com/waldronlab/imageTCGAutils)
 * [snapi](https://github.com/LiNk-NY/snapi)
 * [biocviewsapi](https://github.com/LiNk-NY/biocviewsapi)
 * [BioCmirrors](https://github.com/Bioconductor/BioCmirrors)
@@ -91,11 +99,9 @@ comments: false
 * [ImageFeatureTCGA](https://github.com/waldronlab/ImageFeatureTCGA)
 * [S4Examples](https://github.com/Bioconductor/S4Examples)
 * [ReviewerTools](https://github.com/LiNk-NY/ReviewerTools)
-* [BiocPkgDash](https://github.com/Bioconductor/BiocPkgDash)
 * [BiocPkgStats](https://github.com/Bioconductor/BiocPkgStats)
 * [BiocResourceStats](https://github.com/Bioconductor/BiocResourceStats)
 * [BiocWorkshopSubmit](https://github.com/Bioconductor/BiocWorkshopSubmit)
-* [BiocCertificate](https://github.com/Bioconductor/BiocCertificate)
 * [newsfeed](https://github.com/waldronlab/newsfeed)
 * [describer](https://github.com/LiNk-NY/describer)
 
