@@ -32,6 +32,10 @@ comments: false
 | [AnVILBase](https://github.com/Bioconductor/AnVILBase) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/AnVILBase.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/AnVILBase) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/AnVILBase.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/AnVILBase) |
 | [GCPtools](https://github.com/Bioconductor/GCPtools) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/years-in-bioc/GCPtools.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/GCPtools) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/GCPtools.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/GCPtools) |
 | [shinybiocloader](https://github.com/Bioconductor/shinybiocloader) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/years-in-bioc/shinybiocloader.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/shinybiocloader) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/shinybiocloader.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/shinybiocloader) |
+| [BiocPkgDash](https://github.com/Bioconductor/BiocPkgDash) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/years-in-bioc/BiocPkgDash.svg)](https://bioconductor.org/checkResults/release/bioc-LATEST/BiocPkgDash) | [![Bioconductor-devel Build Status](https://bioconductor.org/shields/build/devel/bioc/BiocPkgDash.svg)](https://bioconductor.org/checkResults/devel/bioc-LATEST/BiocPkgDash) |
+| [imageFeatureTCGA](https://github.com/waldronlab/imageFeatureTCGA) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/build/release/bioc/imageFeatureTCGA.svg)](https://bioconductor.org/checkResults/release/bioc-LATEST/imageFeatureTCGA) | [![Bioconductor-devel Build Status](https://bioconductor.org/shields/build/devel/bioc/imageFeatureTCGA.svg)](https://bioconductor.org/checkResults/devel/bioc-LATEST/imageFeatureTCGA) |
+| [imageTCGAutils](https://github.com/waldronlab/imageTCGAutils) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/build/release/bioc/imageTCGAutils.svg)](https://bioconductor.org/checkResults/release/bioc-LATEST/imageTCGAutils) | [![Bioconductor-devel Build Status](https://bioconductor.org/shields/build/devel/bioc/imageTCGAutils.svg)](https://bioconductor.org/checkResults/devel/bioc-LATEST/imageTCGAutils) |
+| [BiocAzul](https://github.com/Bioconductor/BiocAzul) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/build/release/bioc/BiocAzul.svg)](https://bioconductor.org/checkResults/release/bioc-LATEST/BiocAzul) | [![Bioconductor-devel Build Status](https://bioconductor.org/shields/build/devel/bioc/BiocAzul.svg)](https://bioconductor.org/checkResults/devel/bioc-LATEST/BiocAzul) |
 
 ## Maintainer
 
@@ -84,19 +88,14 @@ comments: false
 
 ## Under Bioconductor Review
 
-* [BiocPkgDash](https://github.com/Bioconductor/BiocPkgDash)
-* [AnVILVRS](https://github.com/Bioconductor/AnVILVRS)
+* None at the moment.
 
 ### In Development
 
-* [BiocAzul](https://github.com/Bioconductor/BiocAzul)
-* [imageFeatureTCGA](https://github.com/waldronlab/imageFeatureTCGA)
-* [imageTCGAutils](https://github.com/waldronlab/imageTCGAutils)
 * [snapi](https://github.com/LiNk-NY/snapi)
 * [biocviewsapi](https://github.com/LiNk-NY/biocviewsapi)
 * [BioCmirrors](https://github.com/Bioconductor/BioCmirrors)
 * [BiocReporting](https://github.com/Bioconductor/BiocReporting)
-* [ImageFeatureTCGA](https://github.com/waldronlab/ImageFeatureTCGA)
 * [S4Examples](https://github.com/Bioconductor/S4Examples)
 * [ReviewerTools](https://github.com/LiNk-NY/ReviewerTools)
 * [BiocPkgStats](https://github.com/Bioconductor/BiocPkgStats)
