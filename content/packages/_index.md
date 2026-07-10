@@ -85,10 +85,6 @@ comments: false
 * [BiocCertificate](https://github.com/Bioconductor/BiocCertificate)
 * [ReleaseLaunch](https://github.com/Bioconductor/ReleaseLaunch)
 
-## Under Bioconductor Review
-
-* None at the moment.
-
 ### In Development
 
 * [snapi](https://github.com/LiNk-NY/snapi)
