@@ -30,7 +30,7 @@ package, which produces an index of symbols, references and call relationships,
 and packages that index as a DuckDB database that an AI model can query.
 
 This post walks through how the mirror and index were set up, and how
-`bioc-index.sh` turns the index into a database. The mirror steps follow the
+`bioc-index.sh` turns the index into a database.[^claude] The mirror steps follow the
 [mirror
 how-to](https://seandavi.github.io/bioc-infrastructure/mirror-how-to.html).
 The scripts used here can be downloaded from the
@@ -307,3 +307,6 @@ is the next step.
    Jetstream2 VM. On another machine, or as a user other than `exouser`, either
    edit `SRC_ROOT` or pass the index directory as the second argument:
    `./bioc-index.sh bundle 3.24 ~/bioconductor_repositories/packages/3.24/bioc/out`.
+
+[^claude]: This post was prepared by Claude Opus 5.5 (model ID
+    `claude-opus-5-5`), an AI model made by Anthropic, using Claude Code.
