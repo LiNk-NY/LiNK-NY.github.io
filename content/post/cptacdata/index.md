@@ -35,9 +35,10 @@ and tens of thousands of phosphosites per sample. Those data live in the
 [Proteomic Data Commons](https://pdc.cancer.gov/) (PDC), under CPTAC case and
 aliquot identifiers, separate from the TCGA data most of us already work with.
 
-[CPTACdata](https://github.com/LiNk-NY/CPTACdata) is a new R package that joins
-the two.[^claude] It queries the PDC, matches CPTAC samples to TCGA barcodes,
-and adds the proteomics as new experiments in a `MultiAssayExperiment` from
+[CPTACdata](https://github.com/waldronlab/CPTACdata) is a new R package that
+joins the two.[^claude] It queries the PDC, matches CPTAC samples to TCGA
+barcodes, and adds the proteomics as new experiments in a
+`MultiAssayExperiment` from
 [curatedTCGAData](https://bioconductor.org/packages/curatedTCGAData). The
 protein data then line up with the mutation, copy-number, RNA-seq and
 methylation assays of the same patients, with no identifier wrangling on your
@@ -63,7 +64,7 @@ from GitHub:
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
 
-BiocManager::install("LiNk-NY/CPTACdata")
+BiocManager::install("waldronlab/CPTACdata")
 ```
 
 ## Which TCGA tumors have CPTAC data?
@@ -228,7 +229,7 @@ available alongside the other TCGA assays when you build a
 If you work with TCGA breast or ovarian tumors, CPTACdata gives you a matched
 protein layer in a few lines of code. Bug reports and feature requests are
 welcome on the [GitHub issue
-tracker](https://github.com/LiNk-NY/CPTACdata/issues), especially if a PDC
+tracker](https://github.com/waldronlab/CPTACdata/issues), especially if a PDC
 study you need is missing or a matrix fails to download.
 
 [^claude]: This post was prepared by Claude Opus 5.5 (model ID
